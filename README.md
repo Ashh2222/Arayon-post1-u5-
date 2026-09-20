@@ -45,9 +45,8 @@ guarda el nombre del usuario identificado y el último filtro aplicado.
 5. Acceder a http://localhost:8080/gestion-tareas/tareas
 
 ## Capturas de pantalla
-![Lista de tareas con filtro combinado aplicado](img/cap(1).png)
-![Filtro persistente al volver sin parámetros](img/cap(2).png)
-![Detalle de una tarea](img/cap(3).png)
-![Tarea marcada como completada](img/cap(4).png)
-![Saludo de sesión tras identificarse](img/cap(5).png)
-
+![Lista de tareas con filtro combinado aplicado](img/cap1.png)
+![Filtro persistente al volver sin parámetros](img/cap2.png)
+![Detalle de una tarea](img/cap3.png)
+![Tarea marcada como completada](img/cap4.png)
+![Saludo de sesión tras identificarse](img/cap5.png)
